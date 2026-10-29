@@ -22,7 +22,7 @@ on the flowchart below.
   ##### 2.1.2 Java Program Code
   
 import java.util.Scanner;
-  public class StudiKasus105 {
+  public class kedaikopi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -74,6 +74,8 @@ Total harga         : Rp 54000
 Diskon              : Rp 0
 Total bayar         : Rp 54000
 Uang tidak cukup, kurang Rp 4000
+
+   
 
   
 
